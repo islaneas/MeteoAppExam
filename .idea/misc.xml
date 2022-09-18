@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/asmae/AndroidStudioProjects/MeteoApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/asmae/AndroidStudioProjects/MeteoApp/app/src/main/res/layout/content_main.xml" value="0.1" />
-        <entry key="..\:/Users/asmae/AndroidStudioProjects/MeteoApp/app/src/main/res/menu/menu_main.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/asmae/Desktop/MeteoExamApp-master/app/src/main/res/layout/activity_main.xml" value="0.1625" />
+        <entry key="..\:/Users/asmae/Desktop/MeteoExamApp-master/app/src/main/res/layout/activity_maps.xml" value="0.1625" />
+        <entry key="..\:/Users/asmae/Desktop/MeteoExamApp-master/app/src/main/res/layout/content_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/asmae/Desktop/MeteoExamApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/asmae/Desktop/MeteoExamApp/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MeteoExamApp/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MeteoExamApp/app/src/main/res/layout/activity_maps.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MeteoExamApp/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MeteoExamApp/app/src/main/res/layout/test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MeteoExamApp/app/src/main/res/menu/menu_main.xml" value="0.1" />
       </map>
     </option>
   </component>

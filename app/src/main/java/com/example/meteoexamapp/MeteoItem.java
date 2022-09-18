@@ -1,10 +1,9 @@
-package ma.enset.meteoapp;
+package com.example.meteoexamapp;
 
 public class MeteoItem {
 
     public int temperature;
 
-    
     public MeteoItem(int temperature, int tempMax, int tempMin, int pression, String image, String date) {
         this.temperature = temperature;
         this.tempMax = tempMax;
@@ -67,5 +66,4 @@ public class MeteoItem {
     public void setDate(String date) {
         this.date = date;
     }
-
 }
