@@ -4,6 +4,7 @@ public class MeteoItem {
 
     public int temperature;
 
+
     public MeteoItem(int temperature, int tempMax, int tempMin, int pression, String image, String date) {
         this.temperature = temperature;
         this.tempMax = tempMax;
